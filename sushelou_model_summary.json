@@ -1,0 +1,155 @@
+{
+  "success": true,
+  "saved": "C:/Users/lewis_test/Documents/GitHub/SketchupMCP/sushelou_Building_Model.skp",
+  "source": "C:/Users/lewis_test/Desktop/sushelou1.dxf",
+  "previews": {
+    "overview": true,
+    "south": true,
+    "east": true,
+    "roof": true
+  },
+  "floor_levels_m": [
+    0.0,
+    4.2,
+    7.8,
+    11.4,
+    15.0,
+    18.6,
+    22.2
+  ],
+  "floors": [
+    {
+      "floor": 1,
+      "layer": "01_Level_1",
+      "elevation_m": 0.0,
+      "height_m": 4.2,
+      "x_m": [
+        0.515792858600209,
+        53.91579285860859
+      ],
+      "y_m": [
+        -0.9000000000434811,
+        16.50000000003283
+      ],
+      "columns": 50,
+      "core_wall_strips": 38,
+      "openings": 96
+    },
+    {
+      "floor": 2,
+      "layer": "02_Level_2",
+      "elevation_m": 4.2,
+      "height_m": 3.5999999999999996,
+      "x_m": [
+        2.5157928586087075,
+        53.91579285860859
+      ],
+      "y_m": [
+        -0.9000000000435976,
+        16.500000000032713
+      ],
+      "columns": 45,
+      "core_wall_strips": 18,
+      "openings": 104
+    },
+    {
+      "floor": 3,
+      "layer": "03_Level_3",
+      "elevation_m": 7.8,
+      "height_m": 3.6000000000000005,
+      "x_m": [
+        2.5157928586087075,
+        53.91579285860859
+      ],
+      "y_m": [
+        -0.9000000000053843,
+        16.5000000000328
+      ],
+      "columns": 45,
+      "core_wall_strips": 18,
+      "openings": 104
+    },
+    {
+      "floor": 4,
+      "layer": "04_Level_4",
+      "elevation_m": 11.4,
+      "height_m": 3.5999999999999996,
+      "x_m": [
+        2.5157928586087075,
+        53.91579285860859
+      ],
+      "y_m": [
+        -0.9000000000053843,
+        16.5000000000328
+      ],
+      "columns": 45,
+      "core_wall_strips": 18,
+      "openings": 104
+    },
+    {
+      "floor": 5,
+      "layer": "05_Level_5",
+      "elevation_m": 15.0,
+      "height_m": 3.6000000000000014,
+      "x_m": [
+        2.5157928586087075,
+        53.91579285860859
+      ],
+      "y_m": [
+        -0.9000000000053843,
+        16.5000000000328
+      ],
+      "columns": 45,
+      "core_wall_strips": 18,
+      "openings": 104
+    },
+    {
+      "floor": 6,
+      "layer": "06_Level_6",
+      "elevation_m": 18.6,
+      "height_m": 3.599999999999998,
+      "x_m": [
+        2.5157928586087075,
+        53.91579285860859
+      ],
+      "y_m": [
+        -0.9000000000053843,
+        16.5000000000328
+      ],
+      "columns": 45,
+      "core_wall_strips": 18,
+      "openings": 104
+    }
+  ],
+  "roof": {
+    "elevation_m": 22.2,
+    "polygon_points": 7,
+    "x_m": [
+      2.9157928586088238,
+      53.515792858608826
+    ],
+    "y_m": [
+      -0.6000000000006112,
+      15.700000000000001
+    ],
+    "note": "Roof boundary read from C-屋面线; modeled as flat roof with the drawing outline."
+  },
+  "bounds_m": {
+    "min": [
+      -11.0,
+      -12.0,
+      -0.35
+    ],
+    "max": [
+      67.0,
+      31.0,
+      24.71
+    ]
+  },
+  "scenes": [
+    "01_Overview",
+    "02_South_Elevation",
+    "03_East_Elevation",
+    "04_Roof_Plan"
+  ]
+}

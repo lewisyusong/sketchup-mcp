@@ -26,6 +26,7 @@ ENV/
 
 # Sketchup specific
 *.rbz
+!sketchup_mcp_v1.6.0.rbz
 
 # OS specific
 .DS_Store
